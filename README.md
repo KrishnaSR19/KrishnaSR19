@@ -22,6 +22,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/krishnkant-rachutkar-072a4b22a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishnkant-rachutkar-072a4b22a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/krishna_r19?igsh=ngxpemm4ehpnd3vp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/krishna_r19?igsh=ngxpemm4ehpnd3vp" height="30" width="40" /></a>
+   <a href="https://twitter.com/https://x.com/krishna_r36?t=eechdnv76yuo14aqd2hn7a&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/krishna_r36?t=eechdnv76yuo14aqd2hn7a&s=09" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/1089331448575688785"  target="blank" >
+    <img align="center" src="https://skillicons.dev/icons?i=discord" alt="Krishna" height="30" width="40" />
+  </a>
 </p>
 
 
