@@ -7,15 +7,15 @@
 
 
 
--  🔭 I’m currently working on Full-Stack Projects😄
+- 🔭 I’m currently working on Full-Stack Projects😄
    
--   🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 Looking to collaborate on Full-Stack Projects
 
 - 💬 Ask me about JAVA | Full-Stack Development | Games 
   
--  📩 Reach me at krishnarachutkar15@gmail.com
+- 📩 Reach me at krishnarachutkar15@gmail.com
 
 
 ## 🌐My Socials:
