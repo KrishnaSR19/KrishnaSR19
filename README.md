@@ -14,13 +14,13 @@
 - 🤝 Open to collaborating on exciting Full-Stack Projects
 - 💬 Ask me about JAVA | Full-Stack Development | Games
 
----
+
 
 ### 📫 Contact Me
 
 - 📩 Email: **krishnarachutkar15@gmail.com**
 
----
+
 
 ## 🌐 My Socials
 
@@ -39,7 +39,7 @@
   </a>
 </p>
 
----
+
 
 ## ⚙️ Tech Stack
 
@@ -66,7 +66,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
 </p>
 
----
 
 
 
@@ -77,7 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSR19&layout=compact&theme=radical" height="180"/>
 </p>
 
----
+
 
 
 
@@ -87,15 +86,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaSR19&theme=react-dark" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KrishnaSR19&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true"/>
-</p>
 
----
 
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
