@@ -9,37 +9,42 @@
 </p>
 
 
-- 🔭Currently building Full-Stack Projects 
-- 🌱Learning Data Structures and Algorithms
-- 🤝 Open to collaborating on exciting Full-Stack Projects
+
+- 🔭 Currently building Full-Stack Projects  
+- 🌱 Learning Data Structures and Algorithms  
+- 🤝 Open to collaborating on exciting Full-Stack Projects  
 - 💬 Ask me about JAVA | Full-Stack Development | Games
 
+
+<pre>⚡ Fun fact: Code is like humor. When you have to explain it, it’s bad. </pre>
 
 
 ### 📫 Contact Me
 
 - 📩 Email: **krishnarachutkar15@gmail.com**
 
-
-
+---
 ## 🌐 My Socials
 
-<p >
-  <a href="https://www.linkedin.com/in/krishnkant-rachutkar-072a4b22a" target="blank">
+<p>
+  <a href="https://www.linkedin.com/in/krishnkant-rachutkar-072a4b22a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://www.instagram.com/krishna_r19" target="blank">
+  
+  <a href="https://www.instagram.com/krishna_r19" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://x.com/krishna_r36" target="blank">
+  <a href="https://x.com/krishna_r36" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
-  <a href="https://discordapp.com/users/1089331448575688785" target="blank">
+
+  <a href="https://discordapp.com/users/1089331448575688785" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40"/>
   </a>
 </p>
 
 
+---
 
 ## ⚙️ Tech Stack
 
@@ -66,8 +71,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
 </p>
 
-
-
+---
 
 ## 📈 GitHub Stats
 
@@ -78,20 +82,14 @@
 
 
 
-
-
-## 🧠 GitHub Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaSR19&theme=react-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSR19&theme=radical" alt="GitHub Streak"/>
 </p>
 
 
 
-
-
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaSR19&theme=react-dark" />
+</p>
 
 
