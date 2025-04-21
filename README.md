@@ -8,15 +8,23 @@
   <img src="https://komarev.com/ghpvc/?username=KrishnaSR19&label=Profile%20views&color=0e75b6&style=flat" alt="KrishnaSR19" />
 </p>
 
+---
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" align="right"  alt="Coding GIF"/>
+
+</div>
+
+### 🚀 What I'm Doing
 
 - 🔭 Currently building Full-Stack Projects  
 - 🌱 Learning Data Structures and Algorithms  
 - 🤝 Open to collaborating on exciting Full-Stack Projects  
 - 💬 Ask me about JAVA | Full-Stack Development | Games
 
-
 <pre>⚡ Fun fact: Code is like humor. When you have to explain it, it’s bad. </pre>
+
 
 
 ### 📫 Contact Me
@@ -24,6 +32,7 @@
 - 📩 Email: **krishnarachutkar15@gmail.com**
 
 ---
+
 ## 🌐 My Socials
 
 <p>
@@ -42,7 +51,6 @@
     <img src="https://skillicons.dev/icons?i=discord" height="40"/>
   </a>
 </p>
-
 
 ---
 
@@ -80,16 +88,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSR19&layout=compact&theme=radical" height="180"/>
 </p>
 
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSR19&theme=radical" alt="GitHub Streak"/>
 </p>
 
-
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaSR19&theme=react-dark" />
 </p>
-
-
