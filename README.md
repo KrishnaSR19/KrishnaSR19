@@ -48,10 +48,12 @@
 
 ## ⚙️ Tech Stack
 
+
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python,php,html,css" />
 </p>
+
 
 ### 🧩 Frameworks & Libraries
 <p>
