@@ -23,7 +23,7 @@
 
 - 📩 Email: **krishnarachutkar15@gmail.com**
 
----
+
 ## 🌐 My Socials
 
 <p>
@@ -44,7 +44,7 @@
 </p>
 
 
----
+
 
 ## ⚙️ Tech Stack
 
@@ -62,7 +62,9 @@
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres" />
-  <img src="https://avatars.githubusercontent.com/u/131260848?s=200&v=4" alt="drizzle" width="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://avatars.githubusercontent.com/u/131260848?s=200&v=4" alt="drizzle" width="40" style="border-radius: 50%;" />
+
 </p>
 
 ### 🛠️ Tools
@@ -71,7 +73,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
 </p>
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -92,4 +94,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaSR19&theme=react-dark" />
 </p>
 
- add a gif in this alogside the the what I am doing area
+
