@@ -8,21 +8,16 @@
   <img src="https://komarev.com/ghpvc/?username=KrishnaSR19&label=Profile%20views&color=0e75b6&style=flat" alt="KrishnaSR19" />
 </p>
 
-
-
 - 🔭 Currently building Full-Stack Projects  
 - 🌱 Learning Data Structures and Algorithms  
 - 🤝 Open to collaborating on exciting Full-Stack Projects  
 - 💬 Ask me about JAVA | Full-Stack Development | Games
 
-
 <pre>⚡ Fun fact: Code is like humor. When you have to explain it, it’s bad. </pre>
-
 
 ### 📫 Contact Me
 
 - 📩 Email: **krishnarachutkar15@gmail.com**
-
 
 ## 🌐 My Socials
 
@@ -43,39 +38,48 @@
   </a>
 </p>
 
-
-
-
 ## ⚙️ Tech Stack
-
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python,php,html,css" />
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
 </p>
-
 
 ### 🧩 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn" width="40"/>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn" width="40"/></a>
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://avatars.githubusercontent.com/u/131260848?s=200&v=4" alt="drizzle" width="40" style="border-radius: 50%;" />
-
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://orm.drizzle.team/" target="_blank"><img src="https://avatars.githubusercontent.com/u/131260848?s=200&v=4" alt="drizzle" width="40" style="border-radius: 50%;" /></a>
 </p>
 
 ### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,postman" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
 </p>
-
-
 
 ## 📈 GitHub Stats
 
@@ -84,16 +88,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSR19&layout=compact&theme=radical" height="180"/>
 </p>
 
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSR19&theme=radical" alt="GitHub Streak"/>
 </p>
 
-
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaSR19&theme=react-dark" />
 </p>
-
-
