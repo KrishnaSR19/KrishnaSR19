@@ -43,7 +43,8 @@
 ### 👨‍💻 Languages
 <p>
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="https://www.learn-c.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
+    <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
@@ -68,7 +69,6 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
   <a href="https://orm.drizzle.team/" target="_blank"><img src="https://avatars.githubusercontent.com/u/131260848?s=200&v=4" alt="drizzle" width="40" style="border-radius: 50%;" /></a>
 </p>
 
@@ -77,9 +77,12 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
+  <a href="https://www.anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/></a>
 </p>
+
 
 ## 📈 GitHub Stats
 
