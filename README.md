@@ -13,7 +13,7 @@
 - 🤝 Open to collaborating on exciting Full-Stack Projects  
 - 💬 Ask me about JAVA | Full-Stack Development | Games
 
-<pre>⚡ Fun fact: Code is like humor. When you have to explain it, it’s bad. </pre>
+<pre>⚡ Fun fact: Code is like humor. When you have to explain it, it’s bad... </pre>
 
 ### 📫 Contact Me
 
