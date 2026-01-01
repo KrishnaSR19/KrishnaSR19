@@ -95,8 +95,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSR19&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaSR19&theme=react-dark" />
-</p>
+
 
 
