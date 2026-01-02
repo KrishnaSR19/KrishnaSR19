@@ -20,23 +20,11 @@
 - 📩 Email: **krishnarachutkar15@gmail.com**
 
 ## 🌐 My Socials
+<a href="https://www.linkedin.com/in/krishnkant-rachutkar-072a4b22a" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://www.instagram.com/krishna_r19" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://x.com/krishna_r36" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://discordapp.com/users/1089331448575688785" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 
-<p>
-  <a href="https://www.linkedin.com/in/krishnkant-rachutkar-072a4b22a" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  
-  <a href="https://www.instagram.com/krishna_r19" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-  <a href="https://x.com/krishna_r36" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
-
-  <a href="https://discordapp.com/users/1089331448575688785" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
-  </a>
-</p>
 
 ## ⚙️ Tech Stack
 
